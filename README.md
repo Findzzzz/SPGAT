@@ -33,7 +33,7 @@ python main.py
 ```
 
 ## Results
-With my code, following are the results of each model when training with dataset `amazon-book`.
+With my code, following are the results of each model when training with dataset `LastFM`.
 
 | Model                                             | Best Epoch | Precision@20 | Recall@20 | NDCG@20 |
 | :---:                                             | :---:      | :---:        | :---:     | :---:   |
