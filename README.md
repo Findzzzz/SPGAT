@@ -4,7 +4,7 @@ This is PyTorch implementation for the paper:
 
 
 ## Introduction
-![image-20240208151931257](https://github.com/mahiroshadow/SPGAT/blob/main/pic/network.png)
+![image-20240208151931257](https://github.com/Findzzzz/SPGAT/blob/main/pic/network.png)
 
 If you want to use codes and datasets in your research, please contact the paper authors and cite the following paper as the reference:
 ```
